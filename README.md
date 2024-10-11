@@ -19,11 +19,26 @@ You can find out more at the website [sites.google.com/ssis.edu.vn/unityimpact](
 
 This will be documented in the [Documentation](Documentation) folder.
 
+### Collaboration with the Girls Code Club
+
+For the second semester we included the members of the **Girls Code** club into the *Unity Impact* club. A good fit, since the leadership team of our club could be part of that club as well. We supported our new members to catch up with the progress we had made in Unity.
+
 ### Game Exibition March 3rd, 2023
 
 After the first semester seven different games were developed. On the game exibition in MPR2 students had a chance to test their skills in these:
 
 ![Games March 2023](https://raw.githubusercontent.com/ssis-unity/unity2022/refs/heads/main/Documentation/2023-03-03_games.jpg)
+
+### Direct links to the games to start in your browser
+
+- [Organize, My Friend in the Mirror](https://unityimpact.itch.io/organize-my-friend-in-the-mirror) by Nam
+- [Build Your Way Up](https://unityimpact.itch.io/build-your-way-up) by Nam Le (LonelyDevil)
+- [Pain](https://unityimpact.itch.io/pain) by Sean
+- [Breezy Mayday](https://unityimpact.itch.io/mayday) by Matthew
+- [Bowling Alley](https://unityimpact.itch.io/bowling-alley) by Yoyo
+- [Save the Chicken](https://unityimpact.itch.io/save-the-chicken) by Soleil
+- [Gun Platformer](https://unityimpact.itch.io/gun-platformer-demo) by Matthew
+- [Airplane Shooter Game](https://unityimpact.itch.io/airplane-shooter-game) by Soleil
 
 ### The team
 
